@@ -1,0 +1,11 @@
+-classpath '/Users/ouuhare/Desktop/ippo-assignment2/build/classes/java/main:/Users/ouuhare/Desktop/ippo-assignment2/build/resources/main:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/11/e0f5bb81e21054b59f2ebfa727d40a90ee0260d3/javafx-fxml-11-mac.jar:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/11/e3a24a14e8732abc6dc173f15872dc63e2a32e16/javafx-controls-11-mac.jar:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/11/58d961774262ec972bf304e16c154a8e18c2050b/javafx-controls-11.jar:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/11/af47a6d3668d3ce1c61e1fe13c44471b6f8d469/javafx-graphics-11-mac.jar:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/11/a736dd079047ec0b72b8c4970842a5c5e0c19f2f/javafx-graphics-11.jar:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/11/4b060dad0affd866df9d959e064faa8a1a2f4af0/javafx-base-11-mac.jar:/Users/ouuhare/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/11/9fcd3e8e3227ec97bf503f7991fad1f3b14d005/javafx-base-11.jar'
+-d '/Users/ouuhare/Desktop/ippo-assignment2/build/docs/javadoc'
+-doctitle 'ippo-assignment2 API'
+-quiet 
+-windowtitle 'ippo-assignment2 API'
+'/Users/ouuhare/Desktop/ippo-assignment2/src/main/java/ippo/assignment2/Room.java'
+'/Users/ouuhare/Desktop/ippo-assignment2/src/main/java/ippo/assignment2/Player.java'
+'/Users/ouuhare/Desktop/ippo-assignment2/src/main/java/ippo/assignment2/Main.java'
+'/Users/ouuhare/Desktop/ippo-assignment2/src/main/java/ippo/assignment2/MobileItem.java'
+'/Users/ouuhare/Desktop/ippo-assignment2/src/main/java/ippo/assignment2/WorldController.java'
+'/Users/ouuhare/Desktop/ippo-assignment2/src/main/java/ippo/assignment2/App.java'
